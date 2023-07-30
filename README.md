@@ -17,3 +17,9 @@ You can add this plain JavaScript to the GreaseMonkey extension or make it an ex
 * Move the reaction square by grabbing it by the header
 * Can also move it by double clicking the reaction square
 * Resize it by using the notch on the bottom right corner
+
+<p align="center">
+  <a>
+    <img src="https://media.tenor.com/sERfpbPKaukAAAAd/xqc-eat-chips.gif" height="300px">
+  </a>
+</p>
