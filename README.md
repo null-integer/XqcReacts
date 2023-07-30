@@ -18,4 +18,6 @@ You can add this plain JavaScript to the GreaseMonkey extension or make it an ex
 
 &nbsp;
 
-<img src="xqc-eat-chips.gif" height="300px">
+<p align="center">
+  <img src="xqc-eat-chips.gif" height="300px">
+</p>
