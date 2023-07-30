@@ -2,9 +2,7 @@
 Add a transformative XQC reation to anything you are doing!
 
 <p align="center">
-  <a>
-    <img src="reacting.gif" height="300px">
-  </a>
+  <img src="reacting.gif" height="300px">
 </p>
 
 &nbsp;
@@ -18,8 +16,6 @@ You can add this plain JavaScript to the GreaseMonkey extension or make it an ex
 * Can also move it by double clicking the reaction square
 * Resize it by using the notch on the bottom right corner
 
-<p align="center">
-  <a>
-    <img src="https://media.tenor.com/sERfpbPKaukAAAAd/xqc-eat-chips.gif" height="300px">
-  </a>
-</p>
+&nbsp;
+
+<img src="xqc-eat-chips.gif" height="300px">
