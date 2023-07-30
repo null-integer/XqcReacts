@@ -3,7 +3,7 @@ Add a transformative XQC reation to anything you are doing!
 
 <p align="center">
   <a>
-    <img src="reaction.mp4" height="300px">
+    <img src="reacting.mp4" height="300px">
   </a>
 </p>
 
